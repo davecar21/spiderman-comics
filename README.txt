@@ -1,23 +1,26 @@
-=== Spiderman Comics ===
-Contributors: Davecar
-Tags: spiderman, comics
-Requires at least: 6.3.2
-Tested up to: 6.3
-Stable tag: 6.3
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+# Project Title
 
-== Description ==
+Spiderman Comics
+
+## Description
 
 Lists the comics that feature Spider-Man (Peter Parker) and whose issues in series only start in 2022. Show both the title and the image of the comic.
 
-== Installation ==
+### Dependencies
 
-1. Upload Spiderman Comics to the `/wp-content/plugins/` directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Place shortcode `[spiderman_comics]` where you want it to use
+- PHP v8.0.1
+- WordPress v6.3.2
 
-== Changelog ==
+### Installation
 
-= 1.0 =
-* Plugin release
+- Upload Spiderman Comics to the `/wp-content/plugins/` directory
+- Activate the plugin through the 'Plugins' menu in WordPress
+- Place shortcode `[spiderman_comics]` where you want it to use
+
+## Authors
+
+Contributor name and contact info
+
+Davecar Grave
+davecargrave@gmail.com
+[https://www.linkedin.com/in/davecargrave/](https://www.linkedin.com/in/davecargrave/)
