@@ -17,6 +17,10 @@ Using the Marvel API (https://developer.marvel.com/), The Spiderman Comics plugi
 - Activate the plugin through the 'Plugins' menu in WordPress
 - Place shortcode `[spiderman_comics]` where you want it to use
 
+### TODO
+
+- add an menu option to input the api key and hash
+
 ## Authors
 
 Contributor name and contact info
