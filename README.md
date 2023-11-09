@@ -4,7 +4,7 @@ Spiderman Comics
 
 ## Description
 
-Lists the comics that feature Spider-Man (Peter Parker) and whose issues in series only start in 2022. Show both the title and the image of the comic.
+Using the Marvel API (https://developer.marvel.com/), The Spiderman Comics plugin will lists the comics that feature Spider-Man (Peter Parker) and whose issues in series only start in 2022. Show both the title and the image of the comic.
 
 ### Dependencies
 
